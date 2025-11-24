@@ -4,6 +4,8 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
+import { FaGithub } from "react-icons/fa";
+
 
 
 import { FaLinkedinIn } from "react-icons/fa";
@@ -65,7 +67,17 @@ function Home() {
                   <FaLinkedinIn />
                 </a>
               </li>
-             
+              <li className="social-icons">
+  <a
+    href="https://github.com/aimaad"
+    target="_blank"
+    rel="noreferrer"
+    className="icon-colour home-social-icons"
+  >
+    <FaGithub />
+  </a>
+</li>
+              
             </ul>
           </Col>
         </Row>
