@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mon-portfolio/static/css/main.f3af6521.css",
-    "main.js": "/mon-portfolio/static/js/main.b9e668d9.js",
+    "main.js": "/mon-portfolio/static/js/main.a4376896.js",
     "static/js/453.ac9b7e2a.chunk.js": "/mon-portfolio/static/js/453.ac9b7e2a.chunk.js",
     "static/media/leaf.png": "/mon-portfolio/static/media/leaf.82204da255262d552252.png",
     "static/media/ebanking-digital.png": "/mon-portfolio/static/media/ebanking-digital.9e61c4b3937b838360a5.png",
@@ -51,11 +51,11 @@
     "static/media/Flutter.svg": "/mon-portfolio/static/media/Flutter.048226813aa67d3b9c69de4b27f7c1fa.svg",
     "static/media/Firebase.svg": "/mon-portfolio/static/media/Firebase.de3da3a4068963dd30fc0f885f170428.svg",
     "main.f3af6521.css.map": "/mon-portfolio/static/css/main.f3af6521.css.map",
-    "main.b9e668d9.js.map": "/mon-portfolio/static/js/main.b9e668d9.js.map",
+    "main.a4376896.js.map": "/mon-portfolio/static/js/main.a4376896.js.map",
     "453.ac9b7e2a.chunk.js.map": "/mon-portfolio/static/js/453.ac9b7e2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3af6521.css",
-    "static/js/main.b9e668d9.js"
+    "static/js/main.a4376896.js"
   ]
 }
