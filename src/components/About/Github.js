@@ -11,7 +11,8 @@ function Github() {
         color: "white",
       }}
     >
-      
+      {/* Affiche le calendrier GitHub pour ton username */}
+      <GitHubCalendar username="aimaad" />
     </Row>
   );
 }
