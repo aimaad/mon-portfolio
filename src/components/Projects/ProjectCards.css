@@ -1,0 +1,14 @@
+.project-link {
+    text-decoration: none;
+    color: white;
+    background: rgba(255, 255, 255, 0.06);
+    transition: 0.3s;
+    display: block;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  .project-link:hover {
+    background: rgba(255, 255, 255, 0.18);
+    padding-left: 10px;
+  }
+  
